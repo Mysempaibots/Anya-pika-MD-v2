@@ -27,7 +27,7 @@ global.headerText = "Anya by Pika" // text for header of menu //
              global.premium = ['22899581320']  // premium numbers //             
              global.waterMark = "×͜× king Arnold™ ✓" // Your own watermark //
 
-global.prefa = ['','-']
+global.prefa = [',']
 
 //--------Random bot name for Info section--------\\
 name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
